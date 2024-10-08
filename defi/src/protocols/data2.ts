@@ -19774,7 +19774,7 @@ const data2: Protocol[] = [
     module: "tangible/index.js",
     twitter: "tangibleDAO",
     forkedFrom: [],
-    oracles: ["Curve"],
+    oracles: ["Curve", "Redstone"],
     audit_links: ["https://github.com/cyberscope-io/audits/blob/main/tngbl/audit.pdf"],
     parentProtocol: "parent#tangible",
     listedAt: 1666883108,
